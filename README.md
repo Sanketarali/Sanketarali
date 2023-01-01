@@ -1,4 +1,4 @@
-![logo](https://github.com/Sanketarali/Sanketarali/blob/main/banner.jpg)
+![logo](https://github.com/Sanketarali/Sanketarali/blob/main/Newbanner.jpg)
 <h1 align="center">Hi 👋, I'm Sanket Arali</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Data Science, SQl, Data Visualization**
+- 💬 Ask me about **Data Science,SQl,Data Visualization**
 
 - 📫 How to reach me **sanketarali@yahoo.com**
 
