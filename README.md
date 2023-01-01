@@ -1,3 +1,4 @@
+![logo](https://github.com/Sanketarali/Sanketarali/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Sanket Arali</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
