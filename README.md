@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanket Arali</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align ="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-programming-d5aa8fb0f280&psig=AOvVaw05WLTK21YOwV6u1OoA6DMm&ust=1672634580384000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDu3srHpfwCFQAAAAAdAAAAABAD"
+<img align ="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-programming-d5aa8fb0f280&psig=AOvVaw05WLTK21YOwV6u1OoA6DMm&ust=1672634580384000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDu3srHpfwCFQAAAAAdAAAAABAD">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketarali&label=Profile%20views&color=0e75b6&style=flat" alt="sanketarali" /> </p>
 
