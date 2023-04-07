@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Machine Learning , SQl , Data Visualization**
 
-- 📫 How to reach me **sanketarali@yahoo.com**
+- 📫 How to reach me **sanketsarali@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
