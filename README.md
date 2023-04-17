@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Machine Learning<br>👨‍💻 All of my projects are available at sanketarali.github.io<br>💬 Ask me about Machine Learning,Python,Data Cleaning,Data Visualization<br>📫 How to reach me sanketsarali@gmail.com
-<img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<im align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 
