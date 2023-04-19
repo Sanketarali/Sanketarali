@@ -11,7 +11,7 @@
  <a href = "https://mail.google.com/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/sanketarali" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/SanketArali" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23E4405F?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
- <a href = "https://sanketarali.github.io/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "https://sanketarali.github.io/"><img src="https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=portfolio&logoColor=white" target="_blank"></a>
   
 </div>
 
