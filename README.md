@@ -11,7 +11,34 @@
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white) 
+![Azure Data Lake](https://img.shields.io/badge/Azure_Data_Lake-%23888888.svg?style=for-the-badge&logo=azure-data-lake&logoColor=white)
+![Azure SQL Database](https://img.shields.io/badge/Azure_SQL_Database-%23FF5733.svg?style=for-the-badge&logo=azure-sql-database&logoColor=white)
+![Azure Synapse Analytics](https://img.shields.io/badge/Azure_Synapse_Analytics-%2300BCD4.svg?style=for-the-badge&logo=azure-synapse-analytics&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-%230072C6.svg?style=for-the-badge&logo=azure-data-factory&logoColor=white)  ![Azure Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-%23888888.svg?style=for-the-badge&logo=azure-cosmosdb&logoColor=white) ![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-%23FFA500.svg?style=for-the-badge&logo=azure-databricks&logoColor=white) ![Azure Stream Analytics](https://img.shields.io/badge/Azure_Stream_Analytics-%23FF5733.svg?style=for-the-badge&logo=azure-stream-analytics&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-%2300BCD4.svg?style=for-the-badge&logo=power-bi&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FFC107.svg?style=for-the-badge&logo=linux&logoColor=white)
+[![Big Data Fundamentals](https://img.shields.io/badge/Big_Data_Fundamentals-%2300FF00.svg?style=for-the-badge)](https://example.com)
+[![Hadoop](https://img.shields.io/badge/Hadoop-%23FF0000.svg?style=for-the-badge)](https://example.com)
+[![Data Modeling and Data Warehousing](https://img.shields.io/badge/Data_Modeling_and_Data_Warehousing-%230000FF.svg?style=for-the-badge)](https://example.com)
+[![Git](https://img.shields.io/badge/Git-%23FFFF00.svg?style=for-the-badge&logo=git&logoColor=white)](https://example.com)
+[![Github](https://img.shields.io/badge/Github-%2300FF00.svg?style=for-the-badge&logo=github&logoColor=white)](https://example.com)
+[![SDLC](https://img.shields.io/badge/SDLC-%230000FF.svg?style=for-the-badge)](https://example.com)
+[![Apache Spark](https://img.shields.io/badge/Apache_Spark-%23FF5733.svg?style=for-the-badge)](https://example.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sanketarali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sanketarali&theme=dark&hide_border=false)<br/>
