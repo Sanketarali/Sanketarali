@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Data Engineering<br>👨‍💻 All of my projects are available at sanketarali.github.io<br>📫 How to reach me sanketsarali@gmail.com
+🌱 I’m currently learning Data Engineering<br>📫 How to reach me sanketsarali@gmail.com
 
 
 ## 🌐 Socials:
