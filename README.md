@@ -1,8 +1,9 @@
+![being-a-django-developer-big](https://github.com/Sanketarali/Sanketarali/assets/110754364/4dfd5809-cb55-4e5d-9c4b-7c0ac07a3124)
+
 # 💫 About Me:
 🌱 I’m currently learning Backend Development<br>📫 How to reach me sanketsarali@gmail.com<br><br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 ## 🌐 Socials:
 #### Connect with me
