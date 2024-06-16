@@ -1,9 +1,12 @@
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/Sanketarali/Sanketarali/assets/110754364/544dc919-dbd5-4b0c-9e61-3d44cae5e6e7)
 
 # 💫 About Me:
-🌱 I’m currently learning Django<br>📫 How to reach me sanketsarali@gmail.com<br><br>
+🌱 I’m currently learning Django<br>📫 How to reach me sanketsarali@gmail.com<br><br><br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
+
+
 
 ## 🌐 Socials:
 #### Connect with me
