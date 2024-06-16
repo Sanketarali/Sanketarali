@@ -1,4 +1,4 @@
-![being-a-django-developer-big](https://github.com/Sanketarali/Sanketarali/assets/110754364/4dfd5809-cb55-4e5d-9c4b-7c0ac07a3124)
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/Sanketarali/Sanketarali/assets/110754364/544dc919-dbd5-4b0c-9e61-3d44cae5e6e7)
 
 # 💫 About Me:
 🌱 I’m currently learning Backend Development<br>📫 How to reach me sanketsarali@gmail.com<br><br>
