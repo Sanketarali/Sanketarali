@@ -11,11 +11,11 @@
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-3670A0?style=for-the-badge&logo=django&logoColor=ffdd54) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
-
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=ffdd54) 
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffdd54) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffdd54) 
 
 
 
