@@ -14,6 +14,7 @@
 [![Instagram](https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https:/instagram.com/sanket_arali)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketarali)
 [![X](https://img.shields.io/badge/twitter-purple?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sanketarali)
+[![X](https://img.shields.io/badge/whatsapp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+919740481350)
 
 
 # 💻 Tech Stack:
