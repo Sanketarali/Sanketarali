@@ -5,6 +5,9 @@
 # 💫 About Me:
 
 🌱 I’m currently learning Django<br>📫 How to reach me sanketsarali@gmail.com<br><br>
+Skilled in Python and Django, I have developed diverse projects such as a Razorpay Payment Integration for seamless transactions and a Student Management System to streamline record-keeping. My work includes a Tweet Application with user authentication and image support, a Poll Application for interactive voting, a Weather App using real-time data, a To-Do List for task management, a Blog Platform for content creation, and a Resume Builder for candidate profiles. Passionate about creating efficient web solutions that address real-world challenges.
+
+
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
