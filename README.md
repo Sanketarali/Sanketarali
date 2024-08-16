@@ -1,5 +1,6 @@
 
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/Sanketarali/Sanketarali/assets/110754364/a19ca0e1-df79-45a0-b883-bb9062362a87)
+![White Minimalist Profile LinkedIn Banner](https://github.com/user-attachments/assets/685c3ec3-6b11-49df-a6de-fd209561490b)
+
 
 
 # 💫 About Me:
