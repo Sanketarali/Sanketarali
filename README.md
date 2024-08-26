@@ -1,5 +1,5 @@
 
-![Uploading White Minimalist Profile LinkedIn Banner (1).png…]()
+![White Minimalist Profile LinkedIn Banner (1)](https://github.com/user-attachments/assets/4b23a5a4-1c04-475f-8519-c93d0d39cdd0)
 
 
 
