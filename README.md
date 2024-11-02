@@ -6,7 +6,11 @@
 # 💫 About Me:
 
 🌱 I’m currently learning Django<br>📫 How to reach me sanketsarali@gmail.com<br><br>
-Skilled in Python and Django, I have developed diverse projects such as a Razorpay Payment Integration for seamless transactions and a Student Management System to streamline record-keeping. My work includes a Tweet Application with user authentication and image support, a Poll Application for interactive voting, a Weather App using real-time data, a To-Do List for task management, a Blog Platform for content creation, and a Resume Builder for candidate profiles. Passionate about creating efficient web solutions that address real-world challenges.
+I'm Sanket Arali, a Software Engineer with a Bachelor's degree in Computer Science and Engineering. I specialize in Python and Django, bringing hands-on experience in backend development, REST APIs, and SQL. My notable projects include developing a Stock Market Company Details Fetcher utilizing the Yahoo Finance API, creating a Company-Employee Management API for efficient data handling, conducting Netflix Data Analysis for insights into content trends, and building a secure Razorpay Payment System for seamless transactions. I also hold certifications in Python, Django, and Microsoft Azure Data Fundamentals. I'm passionate about technology and eager to connect with fellow professionals to explore collaborative opportunities. Feel free to reach out!
+
+
+
+
 
 
 
