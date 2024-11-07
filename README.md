@@ -6,7 +6,7 @@
 # 💫 About Me:
 
 🌱 I’m currently learning Django<br>📫 How to reach me sanketsarali@gmail.com<br><br>
-I'm Sanket Arali, a Software Engineer with a Bachelor's degree in Computer Science and Engineering. I specialize in Python and Django, bringing hands-on experience in backend development, REST APIs, and SQL. My notable projects include developing a Stock Market Company Details Fetcher utilizing the Yahoo Finance API, creating a Company-Employee Management API for efficient data handling, conducting Netflix Data Analysis for insights into content trends, and building a secure Razorpay Payment System for seamless transactions. I also hold certifications in Python, Django, and Microsoft Azure Data Fundamentals. I'm passionate about technology and eager to connect with fellow professionals to explore collaborative opportunities. Feel free to reach out!
+Demonstrated experience as a Software Engineer with a focus on backend development and API integration. Developed a Django web app for real-time financial data, enabling users to view key metrics. Managed company and employee data through a RESTful API, supporting CRUD operations. Analyzed Netflix data using SQL, providing insights into content distribution and trends. Achieved a Bachelor of Engineering with a score of 75%. Proven skills in Python, Django, SQL, and Docker, enhancing project efficiency and user experience.
 
 
 
