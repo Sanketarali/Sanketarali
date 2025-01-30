@@ -24,7 +24,6 @@ Aspiring Cloud and Python Developer with hands-on experience in Azure services, 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketarali)
 [![X](https://img.shields.io/badge/twitter-purple?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sanketarali)
 [![X](https://img.shields.io/badge/whatsapp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+919740481350)
-[![Resume](https://img.shields.io/badge/Resume-blue?style=for-the-badge)](https://drive.google.com/file/d/1ML8RSKtxYUeatA4z_5qQhMZUHYQdjHg7/view?usp=sharing)
 
 
 # 💻 Tech Stack:
