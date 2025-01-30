@@ -1,5 +1,5 @@
 
-![White Minimalist Profile LinkedIn Banner (1)](https://github.com/user-attachments/assets/4b23a5a4-1c04-475f-8519-c93d0d39cdd0)
+![Brown Wood Minimalist Profile LinkedIn Banner (1)](https://github.com/user-attachments/assets/9bb3c51b-a776-46d9-8eeb-4316ab7dbc75)
 
 
 
