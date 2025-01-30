@@ -5,9 +5,8 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning Django<br>📫 How to reach me sanketsarali@gmail.com<br><br>
-Demonstrated experience as a Software Engineer with a focus on backend development and API integration. Developed a Django web app for real-time financial data, enabling users to view key metrics. Managed company and employee data through a RESTful API, supporting CRUD operations. Analyzed Netflix data using SQL, providing insights into content distribution and trends. Achieved a Bachelor of Engineering with a score of 75%. Proven skills in Python, Django, SQL, and Docker, enhancing project efficiency and user experience.
-
+🌱 I’m currently learning Devops<br>📫 How to reach me sanketsarali@gmail.com<br><br>
+Aspiring Cloud and Python Developer with hands-on experience in Azure services, web scraping, and serverless architectures. Proficient in designing secure cloud solutions, automating workflows, and developing scalable applications. Passionate about leveraging technology to solve real-world challenges and committed to continuous learning and growth.
 
 
 
