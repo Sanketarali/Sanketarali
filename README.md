@@ -28,10 +28,21 @@ Aspiring Cloud and Python Developer with hands-on experience in Azure services, 
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=ffdd54) 
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffdd54) 
-![Agile Development](https://img.shields.io/badge/Agile%20Development-2496ED?style=for-the-badge&logo=agile&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Azure CLI](https://img.shields.io/badge/Azure%20CLI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![ARM Templates](https://img.shields.io/badge/ARM%20Templates-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Load Balancer](https://img.shields.io/badge/Load%20Balancer-00A98F?style=for-the-badge&logo=nginx&logoColor=white)  
+![Firewall](https://img.shields.io/badge/Firewall-FF6F00?style=for-the-badge&logo=paloaltosoftware&logoColor=white)  
+![RBAC](https://img.shields.io/badge/RBAC-663399?style=for-the-badge&logo=auth0&logoColor=white)  
+![Key Vault](https://img.shields.io/badge/Key%20Vault-004CFF?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)  
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-6A5ACD?style=for-the-badge&logo=beautifulsoup&logoColor=white)  
+![SDLC](https://img.shields.io/badge/SDLC-1E90FF?style=for-the-badge&logo=dev.to&logoColor=white)  
+![File Storage](https://img.shields.io/badge/File%20Storage-DAA520?style=for-the-badge&logo=microsoftonedrive&logoColor=white)  
+![Blob Storage](https://img.shields.io/badge/Blob%20Storage-4682B4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Queue Storage](https://img.shields.io/badge/Queue%20Storage-32CD32?style=for-the-badge&logo=amazon-sqs&logoColor=white)  
+
 
 
 
