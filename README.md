@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning Devops<br>📫 How to reach me sanketsarali@gmail.com<br><br>
+🌱 I’m currently learning Devops<br>📫reach me at sanketsarali@gmail.com<br><br>
 Aspiring Cloud and Python Developer with hands-on experience in Azure services, web scraping, and serverless architectures. Proficient in designing secure cloud solutions, automating workflows, and developing scalable applications. Passionate about leveraging technology to solve real-world challenges and committed to continuous learning and growth.
 
 
