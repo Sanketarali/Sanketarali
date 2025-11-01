@@ -58,6 +58,18 @@ development workflows to improve application performance and delivery efficiency
 ![Monitoring](https://img.shields.io/badge/Monitoring-32CD32?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-FF4088?style=for-the-badge&logo=gitlab&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Mimir](https://img.shields.io/badge/Mimir-2C3E50?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-00B37E?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-FC6D26?style=for-the-badge&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+
 
 
 
